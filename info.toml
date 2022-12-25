@@ -4,7 +4,7 @@ authors = [
     "boboongus <doordoor2808@gmail.com>",
 ]
 source = "https://github.com/RNobles684/MMBN6-ALT-CODES-patch"
-license = "UNLICENSED (KaizouLoader)"
+for_rom = "Megaman Battle Network 6 - Cybeast Falzar (U)"
 
 [versions.'1.1.0']
 netplay_compatibility = "mmbn6altcodes_v1.1.0"
