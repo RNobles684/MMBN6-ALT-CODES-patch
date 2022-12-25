@@ -1,0 +1,10 @@
+[patch]
+title = "BN6 Alt Codes"
+authors = [
+    "boboongus <doordoor2808@gmail.com>",
+]
+source = "https://github.com/RNobles684/MMBN6-ALT-CODES-patch"
+license = "UNLICENSED (KaizouLoader)"
+
+[versions.'1.1.0']
+netplay_compatibility = "mmbn6altcodes_v1.1.0"
